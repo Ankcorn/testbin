@@ -4,10 +4,6 @@ testbin
 @create
 autocreate true
 
-
-@http
-get /
-
 @ws
 
 # @aws
